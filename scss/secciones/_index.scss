@@ -1,0 +1,58 @@
+body{
+    background-color: $bottonBlack;
+
+
+    .caja{
+        padding: 0;
+
+        .tituloMenu{
+            font-size: 35px;
+        }
+    }
+
+    .card1,
+    .card2,
+    .card3,
+    .card4{
+        background-color: $bottonBlack;
+    }
+
+    .item1, 
+    .item2, 
+    .item3, 
+    .item4{
+        
+        @include items();
+
+        .textoCard{
+            color: $textsWhite;
+        }
+    
+        .tituloCard{
+            color: $textsWhite;
+        }
+    }
+}
+
+        .navFooter{
+            display: flex;
+            flex-direction: column;
+
+            .navItem{
+            vertical-align: inherit;
+            }
+
+            .letra{
+                color: $textsWhite;
+            }
+        }
+
+    .animate__heartBeat{
+        animation-duration: 3s;
+    }
+
+    .pagination{
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 100px;
+    }

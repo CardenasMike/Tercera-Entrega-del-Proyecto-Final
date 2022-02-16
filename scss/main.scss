@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//Variables
+@import "./variables/colores";
+@import "./variables/hovers";
+@import "./variables/mixin.scss";
+@import "./variables/animaciones";
+
+
+//Secciones
+
+@import "./secciones/index";
+@import "./secciones/animes";
+@import "./secciones/mangas";
+

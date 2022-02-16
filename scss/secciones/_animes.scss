@@ -1,0 +1,38 @@
+.gif{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.animes{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.ulCard{
+    @include cards();
+
+    .liCard{
+        margin: 50px 0px 50px 0px;
+    }
+
+    .card-text, .card-title{
+        color: $textsWhite;
+    }
+
+    .cardAnime{
+        background-color: $bottonBlack;
+    }
+}
+
+.navFooter{
+    display: flex;
+    flex-direction: column;
+}
+
+.canvasItem{
+    color: $bottonBlack;
+}
+
+

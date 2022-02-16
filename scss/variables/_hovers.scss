@@ -1,0 +1,36 @@
+//HOVERS
+.btn{
+    transition-property: all;
+    transition-duration: 1s;
+
+        &:hover{
+            transform: scale(0.9);
+       }
+    }
+
+.fotoAnime{
+    transition-property: all;
+    transition-duration: 1s;
+    
+        &:hover{
+            transform: scale(1.2);
+        }
+    }
+    
+.botonCanvas{
+    transition: linear 0.2s;
+    color: $textsWhite;
+
+        &:hover{
+            color: $textsWhite;
+        }
+    }
+
+.itemManga{
+    transition-property: all;
+    transition-duration: 0.5s;
+    
+        &:hover{
+            transform: scale(1.1);
+        }
+    }

@@ -1,0 +1,34 @@
+Aplicacion de SEO
+
+1. Agregué etiquetas meta en el index.html con las siguientes valores:
+
+-Keywords: Agregué las siguientes palabras clave ("anime, ver anime, mangas, waifus, capitulo, kimetsu no yaiba, html, scss, css, estrenos animes").
+
+-Description: Agregué como descripcion de mi sitio web el texto "Ver Anime Online, Ver Mangas En Español, Ultimos estrenos".
+
+-Tittle: A la etiqueta Tittle le hice un cambio para que el texto indicara en que seccion del sitio web se ubicaba el espectador del mismo.
+
+-ALT: Agregué unas palabras significativas para cada imagen
+
+
+
+2. Agregué etiquetas meta en el animes.html diferentes con las siguientes valores:
+
+-Keywords: Agregué las siguientes palabras clave ("animes, ver anime, jujustsu kaisen, waifus, darling in the franxx, kimetsu no yaiba, komi-san, ultimos episodios, css, estrenos animes").
+
+-Description: Agregué como descripcion de mi sitio web el texto {"Kimetsu No Yaiba Episodio-1, Jujutsu Kaisen Episodio-1, Komi-san No Puede Comunicarse Episodio-1"}.
+
+-Tittle: A la etiqueta Tittle le hice un cambio para que el texto indicara en que seccion del sitio web se ubicaba el espectador del mismo.
+
+
+
+3. Agregué etiquetas meta en el mangas.html diferentes con las siguientes valores:
+
+-Keywords: Agregué las siguientes palabras clave ("animes, ver manga, naruto, waifus, mangas, gantz, black clover, tomos, evangelion, vagabond").
+
+-Description: Agregué como descripcion de mi sitio web el texto {"Manga de Naruto, Manga de Vagabond, Todos los tomos de Black Clover"}.
+
+-Tittle: A la etiqueta Tittle le hice un cambio para que el texto indicara en que seccion del sitio web se ubicaba el espectador del mismo.
+
+
+Traté de elegir las mejores palabras claves para mejor busqueda.
